@@ -1,0 +1,2 @@
+clients,workload,keyspace,elapsed_s,requests,throughput_rps,mean_ms,p50_ms,p95_ms,p99_ms,max_ms,reads,writes,deletes,http_2xx,http_4xx,http_5xx,errors
+4,mixed,500,10.005,37631,3761.2,1.06176,0.108292,9.78875,10.809,15.3511,33818,3813,0,37631,0,0,0
